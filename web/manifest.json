@@ -1,6 +1,6 @@
 {
-    "name": "featchdata_from_api",
-    "short_name": "featchdata_from_api",
+    "name": "weather_forecast_app",
+    "short_name": "weather_forecast_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
